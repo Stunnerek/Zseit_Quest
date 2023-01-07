@@ -1,0 +1,63 @@
+#zdjecie2 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: relative; left: 80px; top:50;
+ 
+}
+  
+  #zdjecie3 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: relative; left: 150px; top:-90;
+ 
+}
+  
+  #zdjecie4 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: absolute;; left: 200px; top:400;
+ 
+}
+  
+  #zdjecie1 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: relative; left:  260px; top:450;
+ 
+}
+  
+  #zdjecie5 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: relative; left: 50px; top:50;
+ 
+}
+  
+  #zdjecie6 {
+    border-radius: 8px;
+    height: 200px;
+  width: 50%;
+   position: relative; left: 50px; top:50;
+ 
+}
+
+#zdjecie7 {
+  border-radius: 8px;
+  height: 200px;
+width: 50%;
+ position: relative; left: 50px; top:50;
+
+}
+
+#zdjecie8 {
+  border-radius: 8px;
+  height: 200px;
+width: 50%;
+ position: relative; left: 50px; top:50;
+
+}

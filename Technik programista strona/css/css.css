@@ -1,0 +1,342 @@
+
+p {
+  text-align: center;
+}
+
+#lewo {
+  float:left;
+margin: 0;
+  width:100px;
+  height:200px;
+  background-color:lightblue;
+margin-left: 2px;
+  
+   text-align: center;
+}
+#lewos {
+  float:left;
+margin: 0;
+  width:950px;
+  height: 680px;
+  background-color:lightblue;
+margin-left: 2px;
+  
+   text-align: center;
+}
+h2.headertekst {
+  text-align: center;
+}
+}
+
+#siema22{
+  color: red;
+}
+#przyklad
+{
+width: 150px;
+margin-left: 5px;
+margin-top: 5px;
+    color: #ffffff;
+
+float:left;
+}
+
+
+
+#srodek {
+  float:left;
+  width:50%;
+  background-color:lightgreen;
+  text-align:left;
+  
+}
+#prawo {
+  float:left;
+  width:33.3%;
+  background-color:lightgreen;
+  text-align: center;
+  
+}
+
+#fajne {
+ 
+
+  clear:both;
+  float:left;
+  width:100%;
+  background-color:lightgreen;
+  text-align: left;
+}
+h1 {
+text-align:center;
+color: black
+}
+h2 {
+color: black;
+}
+h3 {
+text-align:center;
+color: black;
+}
+.redText 
+{ 
+    color: red; 
+} 
+}
+
+div.b {
+  text-align: left;
+}
+.left {
+    position: absolute;
+    right: 10%;
+    width: 100px;
+    top: 0;
+}
+}
+.orangeText 
+{ 
+    color: orange; 
+} 
+P { text-align: center }
+H2 { text-align: center }
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+}
+#lewop {
+position: absolute;
+left: 80px
+  float:left;
+margin: 0;
+  width:100%;
+  background-color:lightblue;
+margin-left: -10px;
+  
+   text-align: left;
+
+}
+#program
+{
+width: 190px;
+margin-left: 5px;
+margin-top: 5px;
+    color: #12321;
+
+float:left;
+}
+#strona,   a:visited { 
+color: white;  
+
+width: 110px;
+margin-left: 75px;
+margin-top: 5px;
+  
+
+float:left;
+}
+#opracowanie {
+margin-left: 700px
+}
+
+#rejestracja
+{
+width: 180px;
+margin-left: 5px;
+margin-top: 5px;
+    color: #ffffff;
+
+float:left;
+}
+#informatyka
+{
+width: 110px;
+margin-left: 5px;
+margin-top: 5px;
+margin-right: 80px;
+    color: #ffffff;
+
+float:right;
+}
+
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #538034;}
+ul li:hover ul {display: block;}
+ul li ul,
+a:visited  
+  {
+color: white;
+  position: absolute;
+  width: 250px;
+  display: none;
+
+}
+ul li ul li {
+  background: #538034;
+  display: block;
+ border: 1px #375623;
+a:link {
+  color: green;
+}
+}
+ul li ul li a {display:block !important;}
+ul li ul li:hover {background: #375623;}
+a:link {
+  color: white;
+}
+#srodek  {
+  float:left;
+margin: 0;
+  width:200px;
+  background-color:lightblue;
+margin-left: 2px;
+}
+.dotted{
+ position: relative;
+    border: dotted 2px #000000;
+ text-align:left;
+}
+
+.zdjecie {
+  width: 800px;
+  height: 111px;
+
+}
+.zdjecie2 {
+  width: 280px;
+  height: 261px;
+
+}
+}
+.zdjecie3 {
+  width: 280px;
+  height: 900px;
+
+}
+.zdjecie4 {
+  width:250px;
+  height:80px;
+}
+
+  
+  
+
+
+
+
+
+@media screen and (max-width:800px) {
+  #lewos {
+    float:left;
+  margin: 0;
+    width:500px;
+    background-color:lightblue;
+  margin-left: 0px;
+    
+     text-align: center;
+  }
+  .zdjecie
+{
+  width:92% ;
+  height:12% 
+  
+
+
+
+}
+.zdjecie2 {
+  width: 200px;
+  height: 190px;
+
+}
+
+.zdjecie3 {
+  width: 145px;
+  height: 449px;
+
+}
+
+.zdjecie4 {
+  width:150px;
+  height:50px;
+}
+
+
+ul li {display: inline-block;}
+ul li:hover {background: #538034;}
+ul li:hover ul {display: block;}
+ul li ul,
+a:visited  
+  {
+color: white;
+  position: absolute;
+  width: 145px;
+  display: none;
+
+}
+#program
+{
+width: 100px;
+margin-left: 0px;
+margin-top: 0px;
+    color: #12321;
+
+float:left;
+}
+#strona,   a:visited { 
+color: white;  
+
+width: 90px;
+margin-left: 0px;
+margin-top: 0px;
+  
+
+float:left;
+}
+
+
+#rejestracja
+{
+width: 100px;
+margin-left: 0px;
+margin-top: 0px;
+    color: #ffffff;
+
+float:left;
+}
+#informatyka
+{
+width: 100px;
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+    color: #ffffff;
+
+float:left;
+}
+#przyklad
+{
+width: 100px;
+margin-left: 0px;
+margin-top: 0px;
+    color: #ffffff;
+
+float:left;
+}
+#opracowanie {
+  margin-left: 1px
+  }
+
+}
+
+
+

@@ -1,0 +1,124 @@
+
+#gora {
+  
+
+  width:650px;
+  height:110px;
+  background-color:305395;
+margin-left: 2px;
+ text-align: center;
+ padding: 12px;}
+#calosc {
+width:655px;
+  height:1000px;
+
+float:left;
+}
+
+#lewak {
+  
+  width:350px;
+  height:250px;
+  background-color:BFD5ED;
+margin-left: 18px;
+margin-top: 18px;
+position: top;
+ text-align: left;
+ vertical-align: text-top;
+font-family:Verdena;
+ padding: 12px;
+font-size:21px;
+float:left;}
+
+#prawak {
+margin-right: 0x;
+  width:34%;
+  height:150px;
+  background-color:BFD5ED;
+font-family:Verdena;
+
+margin-top: 18px;
+ text-align: left;
+ padding: 12px;
+float:right;}
+
+img {
+ width: 640px;
+ height: 289px;
+
+    margin-left: 18px;
+   
+background-color:BFD5ED;
+}
+#tekst-dolny {
+ width: 160px;
+ height: 20px;
+
+ margin-top: 15px;
+
+}
+ #tekst-znikajacy {
+ width: 160px;
+ height: 20px;
+display: inline;
+opacity:1;
+ visibility:  visible;
+}
+#tekst-pojawiajacy {
+ display:;
+        width:0;
+        height:0;
+        opacity:0;
+        visibility: collapse; 
+}
+ 
+ 
+
+span {
+position: absolute;
+ top: 165;
+
+}
+
+
+@media screen and (max-width:800px) {
+  #prawak {
+    width:94%;
+    height:29px;
+  
+  
+  }
+ #lewak {
+  width:616px;
+  height:185px
+}
+
+#tekst-dolny { 
+float: left;
+margin-left: 10px;
+margin-top: -19px;
+  
+width:90;
+
+
+ 
+
+ 
+}
+ #tekst-znikajacy {
+ display:none;
+        width:0;
+        height:0;
+        opacity:0;
+        visibility: collapse; 
+}  
+span {
+position: absolute;
+ top: 229;
+
+}
+}
+
+  
+
+  

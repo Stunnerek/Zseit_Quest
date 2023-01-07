@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+<title> Przelicznik walut w Javascript </title>
+
+</head>
+<body>
+<p> Przelicznik walut Html Javascript </p>
+<input id="pln" type="number" placeholder="Podaj PLN"> <Br>
+<input id="euro" type="number" placeholder="euro">    <br>
+<input id="dolar" type="number" placeholder="usd">
+<script>
+
+    const pln = document.getElementById('pln');
+    const euro = document.getElementById('euro');
+    const dollar = document.getElementById('dolar');
+    pln.addEventListener('input' , function () {
+        const pl = parseInt(pln.value)
+        const eu = 0.22*pl;
+        euro.value = eu;
+        const usd = 0.26*pl;
+        dolar.value = usd;
+        
+     
+    
+    })
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+        
+       
